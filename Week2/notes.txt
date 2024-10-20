@@ -1,0 +1,24 @@
+1. Provide a high-level description (ie, using minimal amount of technical
+   jargon) of the project in no more than 200 words.
+   This project involves if statements, for loops, and while loops are used. If statements are conditional statements
+   that execute only if the expression is true. If statements can be extended with elif and else statements to execute
+   additional code. While loops repeat statements as long as the expression is true. On the other hand, for loops repeat
+   statements when variables are in a collection of objects. In the collection of objects, range is commonly used to let
+   variable work in the range. These loops make it easy to repeat actions without rewriting the same code. Additionally,
+   break statements provide a way to exit loops if a certain condition is met and can be used with if statements, for
+   loops, and while loops.
+   ...
+
+2. Did you receive help from anyone? List their names, status (classmate, 
+   CS110 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   ...                ...          ...
+
+3. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   ...
