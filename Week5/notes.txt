@@ -1,0 +1,24 @@
+1. Provide a high-level description (ie, using minimal amount of technical
+   jargon) of the project in no more than 200 words.
+   The main() function is usually invoked when the script is run directly as the main program. The classes in this
+   project are used to define constructors, instance variables, and method. Instance variables are attributes specific
+   to each instance of a class. They store unique information for each object, and you can find them using a dot,
+   like object.attribute. Instance variables are defined within the class but outside of any method and are typically
+   initialized in the constructor (`__init__` method) using the `self` keyword. Methods are functions defined within a
+   class that operate on the object's data such as blob_finder.getBeads(). These methods use a special parameter called
+   `self` to refer to the current object. It helps methods talk to the object it's working with.
+   ...
+
+2. Did you receive help from anyone? List their names, status (classmate, 
+   CS110 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   ...                ...          ...
+
+3. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   ...
