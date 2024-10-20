@@ -1,0 +1,28 @@
+1. Provide a high-level description (ie, using minimal amount of technical
+   jargon) of the project in no more than 200 words.
+   In this project, I used standard input and output. Both the standard input and output functionalities are available
+   in the libraries used.The `stdarray` library provides functions for creating lists. To create a 1D list, I uesed the
+   function `stdarray.create1D()`, and to create a 2D list, I used the function `stdarray.create2D()`. Each of these
+   functions accepts parameters that specify the size of each dimension. Additionally, these functions can take an
+   optional argument to initialize each element of the lists.  In the `stdio` library, there are functions for reading
+    standard inputs. For instance, `readInt()` reads input as an integer, `readFloat()` reads input as a float,
+    `readString()` reads input as strings, and `readAllStrings()` reads all remaining inputs as a list of strings.
+    Also writeln() and write() are functions that write standard output. Furthermore, the 'stdaudio' library provides
+    capabilities for playing digital sound.
+     Also there are another way of accepting standard input. By using operators in the terminal, the program can interact
+    with another program, read from a file of standard input, and write the result into a file of standard output.
+   ...
+
+2. Did you receive help from anyone? List their names, status (classmate, 
+   CS110 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   ...                ...          ...
+
+3. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   ...
