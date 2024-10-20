@@ -1,0 +1,25 @@
+1. Provide a high-level description (ie, using minimal amount of technical
+   jargon) of the project in no more than 200 words.
+Creating programs takes inputs, calculates them, and shows outputs. Commonly used tools include the `math`, 'stdrandom',
+ `sys`, and `stdio` libraries from Python's standard libraries. `sys.argv` receives input values, which can be assigned
+ to data types such as floats or integers. The programs in Project1 handle inputs as floats, integers, and strings.
+ The `math` library offers various arithmetic operations. After appropriately assigning input values to data types,
+ the programs perform calculations using these operators. 'stdrandom' typically refers to a module or library that
+ provides functionality for generating random numbers. For example, 'uniformInt' returns a integer randomly chosen from the interval.
+  Finally, results are displayed using `stdio.writeln` or `stdio.write`. The distinction
+ between these methods is that `writeln` adds a newline after standard output, while `write` does not.All programs in
+ this project allow users to enter data, perform calculations, and view the results effectively.
+
+2. Did you receive help from anyone? List their names, status (classmate, 
+   CS110 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   ...                ...          ...
+
+3. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   ...
