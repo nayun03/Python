@@ -1,0 +1,25 @@
+1. Provide a high-level description (ie, using minimal amount of technical
+   jargon) of the project in no more than 200 words.
+   Functions are defined with `def', which specifies the function name and parameters in parentheses. These parameters
+   are placeholders for values to be passed when the function is called. Within the body of a function, operations are
+   performed on these parameters and results are returned with `return'. Functions are called by their names, followed
+   by parentheses containing arguments. Variables within functions are local, while those in the global scope can be
+   accessed. Functions can call other functions, promoting code reusability and simplifying code organization, reading,
+   and maintenance. When a program is imported as a library, the program's `__name__` attribute is not set to
+   `'__main__'`. The `if __name__ == '__main__':` construct allows code to run only when a script is directly executed.
+   When a program is imported into another program, the functions that belong to the program, that is, the application
+   programming interface (API), can be used by <library name>.<function name>.
+
+2. Did you receive help from anyone? List their names, status (classmate, 
+   CS110 grad, TA, other), and the nature of help received.
+
+   Name               Status       Help Received
+   ----               ------       -------------
+
+   ...                ...          ...
+
+3. List any other comments here. Feel free to provide any feedback on how
+   much you learned from doing the assignment, and whether you enjoyed
+   doing it.
+
+   ...
